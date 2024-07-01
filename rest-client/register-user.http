@@ -1,0 +1,9 @@
+POST http://localhost/gatsby-qr/v1/register-user.php
+Content-Type: "application/json"
+
+{
+    "nombre": "Tsuki Rabbit",
+    "delegacion": "Aranjuez",
+    "email": "tsuky@gmail.com",
+    "password": "12345"
+}

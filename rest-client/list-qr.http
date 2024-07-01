@@ -1,0 +1,2 @@
+GET http://localhost/gatsby-qr/v1/list-qr.php
+Content-Type: "application/json"

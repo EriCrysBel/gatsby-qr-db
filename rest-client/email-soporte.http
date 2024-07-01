@@ -1,0 +1,9 @@
+POST  http://localhost/gatsby-qr/v1/email-soporte.php
+Content-Type: "application/json"
+
+{
+    "nombre": "gerente",
+    "email": "gerente@gmail.com",
+    "asunto": "vida o muerte",
+    "mensaje": "help me" 
+}

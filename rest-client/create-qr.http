@@ -1,0 +1,9 @@
+POST http://localhost/gatsby-qr/v1/create-qr.php
+Content-Type: "application/json"
+
+{
+    "data": "pipi.com",
+    "nombre_ref": "La Presa",
+    "description": "Hay muchos patos",
+    "created_by": 5
+}

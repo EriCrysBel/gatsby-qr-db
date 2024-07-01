@@ -1,0 +1,8 @@
+GET http://localhost/gatsby-qr/v1/login-user.php
+Content-Type: "application/json"
+Authorization: Bearer TU_TOKEN
+
+{
+    "email": "coneji@gmail.com",
+    "password": "12345"
+}
